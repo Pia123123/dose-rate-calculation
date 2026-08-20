@@ -21,7 +21,7 @@ Open the script in an Integrated Development Environment (like Geany) and click 
 Demo
 
 At the head of the code, you can choose the isotope (only for the file “doserate_caused_by_Am_or_Cm.py”) and the cell geometry. 
-Since every cells is unique in shape and size and none of them fits into a standard-geometry, the geometry can be approximated by two standard geometries. The results are in good agreement.
+Since every cell is unique in shape and size and none of them fits into a standard-geometry, the geometry can be approximated by two standard geometries. The results are in good agreement.
 The possible geometries are a cylinder or a cuboid. If you choose cuboid, only the activity per volume will be calculated with this geometry, the doserate will be calculated using a cylinder.
 Thereafter run the code.
 The expected run time amounts 4 s for the code “doserate_caused_by_Am_or_Cm.py” and 20 s for the code “doserate_caused_by_Pm.py”.
