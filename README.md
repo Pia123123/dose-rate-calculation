@@ -12,6 +12,7 @@ Run the python code:
 via console
 
 Navigate to the scripts directory and run: python “doserate_caused_by_Am_or_Cm.py” or “doserate_caused_by_Pm.py”
+
 via editor
 
 Open the script in an Integrated Development Environment (like Geany) and click the Run button.
