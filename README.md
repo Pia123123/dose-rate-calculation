@@ -29,4 +29,4 @@ The expected run time amounts 4 s for the code “doserate_caused_by_Am_or_Cm.py
 
 Instructions for use
 
-The results given in the paper were calculated by using the geometry “cuboid”.
+The results given in the paper "Lanthanide-dependent Methanotroph Thrives on Radioactive Promethium" by de Bary, Steudtner et al. were calculated by using the geometry “cuboid”.
