@@ -1,3 +1,5 @@
+DOI: 10.5281/zenodo.22082631
+
 System requirements
 
 A Version of python as well as the numpy-library has to be installed. The code was tested with python 3.14. Non-standard hardware is not required.
